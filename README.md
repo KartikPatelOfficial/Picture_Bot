@@ -2,6 +2,12 @@
 
 Python bot to download images from the internet and store in directory
 
+
+![Travis](https://img.shields.io/travis/USER/REPO.svg)
+![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)
+![Python](https://img.shields.io/badge/Python-2.7.10-blue.svg)
+
+
 ## Getting Started
 
 Python based project run on any enviroment. Written in macOs.
